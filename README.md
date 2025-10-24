@@ -5,7 +5,7 @@
 - ⚡Back-End & Front-End
 
 <div style="display: flex; justify-content: center; gap: 70;">
-  <img src="https://github-readme-stats.vercel.app/api?username=igordevice1&show_icons=true&theme=dark" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=igordevice&show_icons=true&theme=dark" alt="GitHub Stats" height="180">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordevice&layout=compact&theme=dark&cache_seconds=1300" />
 
 <!-- Linguagens -->
