@@ -1,8 +1,8 @@
-# 👨‍💻Olá! Eu sou o Igor
+# Olá! Eu sou o Igor
 
 - 🛠Técnico em desenvolvimento de sistemas
-- 🏫Estudante da ETEC
-- ⚡Back-End & Front-End
+- Estudante da ETEC
+- Back-End & Front-End
 
 <div style="display: flex; justify-content: center; gap: 70;">
   <img src="https://github-readme-stats.vercel.app/api?username=igordevice&show_icons=true&theme=dark" alt="GitHub Stats" height="180">
