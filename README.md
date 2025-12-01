@@ -1,6 +1,6 @@
-# Olá! Eu sou o Igor
+# Olá! Eu sou o Igor 
 
-- 🛠Técnico em desenvolvimento de sistemas
+- Técnico em desenvolvimento de sistemas
 - Estudante da ETEC
 - Back-End & Front-End
 
