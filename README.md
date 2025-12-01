@@ -4,12 +4,9 @@
 - Estudante da ETEC
 - Back-End & Front-End
 
-<div style="display: flex; justify-content: center; gap: 70;">
-  <img src="https://github-readme-stats.vercel.app/api?username=igordevice&show_icons=true&theme=dark" alt="GitHub Stats" height="180">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordevice&layout=compact&theme=dark&cache_seconds=1300" />
 
 <!-- Linguagens -->
-<h3>:rocket: Linguagens que utilizo:</h3>
+<h3>Linguagens que utilizo:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
