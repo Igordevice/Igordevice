@@ -2,6 +2,7 @@
 
 - Técnico em desenvolvimento de sistemas
 - Back-End & Front-End
+- Proano
 
 
 <!-- Linguagens -->
