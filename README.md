@@ -1,7 +1,6 @@
 # Olá! Eu sou o Igor 
 
 - Técnico em desenvolvimento de sistemas
-- Estudante da ETEC
 - Back-End & Front-End
 
 
@@ -13,15 +12,13 @@
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Biel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >
-  <img align="center" alt="Biel-Git" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg" >
-  <img align="center" alt="Biel-Git" height="30" width="40" src="https://icon.icepanel.io/Technology/svg/React.svg" >
 </div>
 
 <br>
 <!-- Redes sociais -->
 <h3>:globe_with_meridians: Minhas redes:</h3>
 <div>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-aguiar-ab193132b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
