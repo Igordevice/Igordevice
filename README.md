@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Igor%20Aguiar&fontSize=65&fontAlign=50&fontAlignY=38&fontColor=00f5ff&desc=Software%20Developer%20%7C%20Technology%20Enthusiast&descSize=17&descAlign=50&descAlignY=62&descFontColor=a0a0b0&color=0a0a1a,0d1b2a,0a0a1a&stroke=00f5ff&strokeWidth=1&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Igor%20Aguiar&fontSize=65&fontAlign=50&fontAlignY=38&fontColor=f0f7da&desc=Software%20Developer%20%7C%20Technology%20Enthusiast&descSize=17&descAlign=50&descAlignY=62&descFontColor=f0f7da&color=6f8b94&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Initializing+IgorAguiar.exe...;%3E+Code+%7C+Innovation+%7C+Technology;%3E+Turning+ideas+into+reality.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=f0f7da&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Initializing+IgorAguiar.exe...;%3E+Code+%7C+Innovation+%7C+Technology;%3E+Turning+ideas+into+reality.)
 
 </div>
 
@@ -98,21 +98,12 @@ More projects coming soon	New ideas, experiments and developments	Coming Soon
 
 ![Igor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Igordevice&bg_color=0a0a1a&color=00f5ff&line=7c3aed&point=f59e0b&area=true&area_color=00f5ff&hide_border=true&custom_title=Contribution%20Graph)
 
-</div>
 
-〔 06 〕 GITHUB TROPHIES
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Igordevice&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
-
-</div>
-
-〔 07 〕 SNAKE CONTRIBUTION
+〔 06 〕 SNAKE CONTRIBUTION
 
 
 
-〔 08 〕 CONNECT WITH ME
+〔 07 〕 CONNECT WITH ME
 
 <div align="center">
 
