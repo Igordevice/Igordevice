@@ -62,23 +62,7 @@ console.log("Welcome to my GitHub!");
 
 </div>
 
-〔 03 〕 FEATURED PROJECTS
-
-<div align="center">
-
-🚀 Project	📋 Description	🛠 Technology
-index	Personal project hosted on GitHub	HTML
-More projects coming soon	New ideas, experiments and developments	Coming Soon
-
-</div>
-
-<div align="center">
-
-![Repositories](https://img.shields.io/badge/VIEW-ALL%20PROJECTS-00f5ff?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-〔 04 〕 GITHUB STATS
+〔 03 〕 GITHUB STATS
 
 <div align="center">
 
@@ -92,18 +76,15 @@ More projects coming soon	New ideas, experiments and developments	Coming Soon
 
 </div>
 
-〔 05 〕 CONTRIBUTION GRAPH
+〔 04 〕 CONTRIBUTION GRAPH
 
 <div align="center">
 
 ![Igor's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Igordevice&bg_color=0a0a1a&color=00f5ff&line=7c3aed&point=f59e0b&area=true&area_color=00f5ff&hide_border=true&custom_title=Contribution%20Graph)
 
 
-〔 06 〕 SNAKE CONTRIBUTION
 
-
-
-〔 07 〕 CONNECT WITH ME
+〔 06 〕 CONNECT WITH ME
 
 <div align="center">
 
@@ -113,22 +94,8 @@ More projects coming soon	New ideas, experiments and developments	Coming Soon
 
 </div>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0a1a,0d1b2a,0a0a1a&fontColor=00f5ff&stroke=00f5ff&strokeWidth=1&animation=fadeIn" />
-
-text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║       "Great things are built one line at a time."           ║
-║                                                              ║
-║                 KEEP BUILDING. KEEP LEARNING.                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-
-
-!Visitor Count
-
-Thanks for visiting my profile! 🚀
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiDev-bot/JaiDev-bot/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaiDev-bot/JaiDev-bot/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JaiDev-bot/JaiDev-bot/output/pacman-contribution-graph.svg">
+</picture>
