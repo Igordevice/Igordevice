@@ -15,7 +15,7 @@
 
 <br/>
 
-## 〔 01 〕 ⚙️ Tech Stack
+## 〔 01 〕 Tech Stack
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-## 〔 02 〕  About Me
+## 〔 02 〕 About Me
 
 ```javascript
 const Igor = {
@@ -62,7 +62,7 @@ const Igor = {
 
 <br/>
 
-## 〔 04 〕 Contribution Graph
+## 〔 03 〕 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaiDev-bot/JaiDev-bot/output/pacman-contribution-graph-dark.svg">
